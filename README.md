@@ -1,5 +1,7 @@
-# AIFFEL Data Scientist Campus
-# Kaggle Study
+| 번호 | 항목                         |
+|------|------------------------------|
+| 1    | AIFFEL Data Scientist Campus |
+| 2    | Kaggle Study                 |
 
 ## 폴더 구조
 - `projects/`: AIFFEL에서 진행했던 프로젝트들을 담은 폴더입니다.
