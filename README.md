@@ -14,8 +14,8 @@
 3. [택시 요금 데이터 EDA](./Projects/Project_EDA/taxi_project.ipynb)
 4. [Rossmann Store Sales EDA](./Projects/Project_Statistics/rossmann-store-sales.ipynb)
 5. [Fraud Detection Data EDA](./Projects/Project_main02_EDA/Main_fraud.ipynb)
-6. [House Price Prediction Data EDA & ML](./Projects/Project_ML/machine_learning.ipynb)
-7. [ML with Scikit-learn Dataset](./Projects/Project_ML/project_sklearn_ML.ipynb)
+6. [House Price Prediction Data EDA & ML](./Projects/Projects_ML/machine_learning.ipynb)
+7. [ML with Scikit-learn Dataset](./Projects/Projects_ML/project_sklearn_ML.ipynb)
 8. [Time Series Data](./Projects/Project_TimeSeries/0228_Project_시계열.ipynb)
 9. [Analysis of stock data](./Projects/Project_TimeSeries/0229_주식주가예측.ipynb)
 
