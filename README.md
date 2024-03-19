@@ -6,7 +6,8 @@
 
 ## DIR Structure
 - `AIFFEL/Projects/`: AIFFEL에서 진행했던 프로젝트들을 담은 폴더입니다.
-- `Study/`: Kaggle 스터디를 진행하는데 필요한 자료들을 담은 폴더입니다.
+- `Study/KAGGLE`: Kaggle 스터디를 진행하는데 필요한 자료들을 담은 폴더입니다.
+- `Projects`: 개인적으로 진행했던 프로젝트들을 담은 폴더입니다.
 
 ## Projects
 1. [구글 빅쿼리 연동 SQL문](./AIFFEL/Projects/Project_main01_SQL/main_project_1.ipynb)
