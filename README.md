@@ -25,3 +25,5 @@
 - [Week 1: Titanic](https://www.kaggle.com/c/titanic)
 - [Week 2: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - [Week 3: NLP Disaster](https://www.kaggle.com/competitions/nlp-getting-started)
+- [Week 4: Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification)
+- [Week 5: Plant Pathology](https://www.kaggle.com/c/plant-pathology-2020-fgvc7)
